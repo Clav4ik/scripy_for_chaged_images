@@ -1,1 +1,1 @@
-# scripy_for_chaged_images
+# script for changed images from path of directory

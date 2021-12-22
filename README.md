@@ -1,0 +1,1 @@
+# scripy_for_chaged_images
